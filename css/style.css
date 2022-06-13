@@ -6,8 +6,8 @@ html, body{
     font-family:'Roboto', sans-serif;
     background-color: #f8edeb;
     display: grid;
-    font-family: "Avenir Next", 
-    display: grid;
+    font-family: "Avenir Next";
+    display : grid;
 }
 
 
@@ -24,9 +24,9 @@ min-height: 500px;
   background-image: url();
 }
 .logo-top{
-  font-family: monospacNanumPenScript-Regular.ttf, monospace;
+  font-family: m"onospacNanumPenScript-Regular.ttf," monospace;
   font-weight:bold;
-  margin-left: 1em;
+  margin-left: 3 1em;
 }
 
 .nav-bar{
